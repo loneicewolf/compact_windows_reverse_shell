@@ -3,8 +3,13 @@ A compact windows reverse shell written in the C programming language.
 
 
 
-:warning: TODO:
-- [ ] GIST  https://gist.github.com/loneicewolf/03d71d65735d8b2d34b5c60b1232d144
+### :warning: TODO:
+- [ ] GIST  https://gist.github.com/loneicewolf/
+- [ ] All other things(improvs, funcs, shellcode, av, etc.)
+- [ ] 
+- [ ] 
+- [ ] 
+
 
 
 ### Sources:
