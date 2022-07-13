@@ -2,8 +2,17 @@
 A compact windows reverse shell written in the C programming language. 
 
 
+
 :warning: TODO:
 - [ ] GIST  https://gist.github.com/loneicewolf/03d71d65735d8b2d34b5c60b1232d144
+
+
+### Sources:
+- defcon-25-workshop
+- 
+- 
+- 
+- 
 
 # Template
 
