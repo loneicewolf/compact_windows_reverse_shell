@@ -1,50 +1,20 @@
 # compact_windows_reverse_shell
 A compact windows reverse shell written in the C programming language. 
 
-
-
-
-:warning: to myself:  update ALL reverse shells (gist, git, codes, code blocks, ....)  :warning:
-
-
-
-
-
-
-🔴 for now as a base I included the defcon rev shell; will make my own based on the Linux shell because right now; it's not compact at all.
-
+`for now as a base I included the defcon rev shell; will make my own based on the Linux shell because right now; it's not compact at all.`
 
 
 ### :warning: TODO:
-- [ ] GIST  https://gist.github.com/loneicewolf/
-- [ ] All other things(improvs, funcs, shellcode, av, etc.)
-- [ ] 
-- [ ] 
-- [ ] 
-
+- [x] :green_circle: GIST https://gist.github.com/loneicewolf/03d71d65735d8b2d34b5c60b1232d144
+- [x] :green_circle: ADD shellcode execution
+- [ ] All other things(improvs, funcs, av, etc.) 
+- [ ] ()
+- [ ] ()
 
 
 ### Sources:
 - defcon-25-workshop
-- 
-- 
-- 
-- 
-
-# Template
-
-```
-#include <a.h>
-#include "b.h"
-
-#define RP 1234
-#define RH "127.0.0.1"
-#define BIN "PATH TO BIN"
-
-int main(){
-return 0;
-
-}
-```
+- stackoverflow
+- msdocs
 
 
