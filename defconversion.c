@@ -1,5 +1,7 @@
 // originally from defcon 25!
-#include <winsock2.h>
+
+// not needed? #include <winsock2.h>
+
 
 #include <WS2tcpip.h>
 #include <stdio.h>
