@@ -1,6 +1,16 @@
 # compact_windows_reverse_shell
 A compact windows reverse shell written in the C programming language. 
 
+
+
+
+:warning: to myself:  update ALL reverse shells (gist, git, codes, code blocks, ....)  :warning:
+
+
+
+
+
+
 🔴 for now as a base I included the defcon rev shell; will make my own based on the Linux shell because right now; it's not compact at all.
 
 
